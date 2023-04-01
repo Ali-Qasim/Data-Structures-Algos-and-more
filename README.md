@@ -4,6 +4,8 @@ These are some engaging mini-projects and apps! I made to play around with conce
 
 AnimatedShapes:
 
+![image](https://github.com/Ali-Qasim/Test-Projects/blob/main/shapes.gif)
+
 This was just me playing around with JFrame and animating a bunch of shapes. Left-click adds a polygon to the JFrame, middle-mouse-button randomises colour, the scroll-wheel increases the size of shapes to be added, and right-click clears everything.
 
 Farmer-Fox-Goose-Corn Puzzle Solver:
