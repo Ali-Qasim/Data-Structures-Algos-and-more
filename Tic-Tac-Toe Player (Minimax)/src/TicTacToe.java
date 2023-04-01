@@ -17,7 +17,7 @@ public class TicTacToe {
         int choice = b.scan.nextInt();
         if(choice == 1){ //AI player starts
             AI.callMinimax(0, 1, b); //Get the values of the possible moves by the AI player through minimax search
-	    for (PointsAndScores pas : AI.rootsChildrenScores) { //Display these values
+	    for (PointsAndScores pas : AI.rootsChildrenScores) { //Display these values to see the AI's brain
 	        System.out.println("Point: " + pas.point + " Score: " + pas.score);
 	    }
             b.placeAMove(AI.returnBestMove(), 1); //AI player makes a move where the value to the AI player is maximum  
