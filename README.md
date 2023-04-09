@@ -1,6 +1,6 @@
 # Test-Projects
  
-These are some engaging mini-projects and apps! I made to play around with concepts and technologies!
+These are some engaging mini-projects and apps I made to play around with concepts and technologies!
 
 
 
